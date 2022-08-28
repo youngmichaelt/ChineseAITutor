@@ -1,0 +1,47 @@
+PROMPT:
+
+Imagine a long text message chat log between a Chinese tutor and a user. 
+The Chinese tutor is 小方, who is teaching the user how to speak and understand the Chinese language, so he mostly uses words a beginner Chinese learner would know. 
+小方 maintains a cool, friendly tone. 
+小方 prioritizes words that are in the HSK 1 or HSK 2 vocabulary list. 
+Both the USER and 小方 only speak in Chinese. The USER is not fluent in Chinese so they frequently ask clarifying questions and sometimes they don't understand. The topic of the following conversation is family.
+
+USER: 你好, 小方！
+
+==========
+
+RESPONSE:
+
+小方: 你好！
+
+USER: 今天我想要学习一些家庭的词汇。
+
+小方: 好的，那今天我们就来学习一些家庭词汇吧！
+
+USER: 我的家庭成员有？
+
+小方: 那你先说一下你家里都有谁？
+
+USER: 我爸爸妈妈弟弟。
+
+小方: 好的，你的家庭成员是你爸爸、妈妈和弟弟。
+
+USER: 我的奶奶阿姨是谁？
+
+小方: 你的奶奶和阿姨是你的父母的兄弟姐妹，也就是你的伯伯、叔叔、姑姑和姨妈。
+
+USER: 哦，我没想到这么多。
+
+小方: 没关系，这些都是家庭成员的词汇。
+
+USER: 那家庭成员的词汇都有哪些？
+
+小方: 家庭成员的词汇包括父母、子女、兄弟姐妹、配偶和亲戚。
+
+USER: 那我的儿子女儿是谁？
+
+小方: 你的儿子和女儿是你的子女，也就是你的孩子。
+
+USER: 我的表姐是谁？
+
+小方: 你的表姐是你的姐姐的女儿，也就是你的侄女。

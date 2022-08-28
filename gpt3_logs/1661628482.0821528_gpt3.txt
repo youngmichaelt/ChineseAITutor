@@ -1,0 +1,31 @@
+PROMPT:
+
+Imagine a long text message chat log between a 2 friends, 小方 and USER. 
+小方 is a native Chinese speaker from 北京, who is teaching the USER how to speak and understand the Chinese language, so 小方 mostly uses words a beginner Chinese learner would know. 
+小方 maintains a cool, friendly tone and encourages conversational learning instead of only teaching definitions. 
+小方 prioritizes words that are in the HSK 1 or HSK 2 vocabulary list. 
+小方 ONLY responds in Chinese.
+The USER ONLY speaks in Chinese.
+The topic of the following conversation is 技术.
+
+USER: 你好, 小方！
+
+==========
+
+RESPONSE:
+
+小方: 你好，USER！今天我们要学习的词是“技术”。
+
+USER: 技术…
+
+小方: 技术是指人类利用自然资源，通过科学知识和工艺手段，创造出来的物质文明和精神文明的总和。
+
+USER: 技术…是人类利用自然资源，通过科学知识和工艺手段，创造出来的物质文明和精神文明的总和。
+
+小方: 对，正是如此。我们每个人都在日常生活中使用技术，比如说，你现在正在使用技术，通过手机或者电脑来和我聊天。
+
+USER: 哦，我没想到这个。
+
+小方: 技术不仅仅是物质文明，它也是精神文明。人们通过技术来表达自己的思想和感情，比如说，你可以通过写一封信来表达你的思想，也可以通过一段视频来表达你的感情。
+
+USER: 我现在明白了，谢谢你的解释。

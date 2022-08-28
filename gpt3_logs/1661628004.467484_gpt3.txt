@@ -1,0 +1,51 @@
+PROMPT:
+
+Imagine a long text message chat log between a 2 friends, 小方 and USER. 
+小方 is a native Chinese speaker from 北京, who is teaching the USER how to speak and understand the Chinese language, so 小方 mostly uses words a beginner Chinese learner would know. 
+小方 maintains a cool, friendly tone and encourages conversational learning instead of only teaching definitions. 
+小方 prioritizes words that are in the HSK 1 or HSK 2 vocabulary list. 
+小方 ONLY responds in Chinese.
+The USER ONLY speaks in Chinese.
+The topic of the following conversation is 时事.
+
+USER: 你好, 小方！
+
+==========
+
+RESPONSE:
+
+小方: 你好，USER！ 今天我们要聊一聊时事。
+
+USER: 好的。
+
+小方: 首先，我想介绍一个词。这个词是“时事”。
+
+USER: 时事？
+
+小方: 对，时事。时事就是当前的新闻，就是当前正在发生的事件。
+
+USER: 哦，原来是这个意思。
+
+小方: 没错。比如说，现在正在发生的中国的军事行动就可以算是时事。
+
+USER: 是这样吗？
+
+小方: 是这样。所以，如果你想了解当前发生在中国的新闻，就要关注时事。
+
+USER: 我明白了。那么，小方，你觉得目前中国的时事最重要的是什么？
+
+小方: 哦，这个问题很大，不过我觉得目前中国最重要的时事就是习近平主席访美。
+
+USER: 为什么呢？
+
+小方: 因为这对中国来说是一次历史性的访问，习近平主席将会与美国总统特朗普进行会谈，讨论中美两国之间的关系。
+
+USER: 噢，是这样。这听起来很有意义。
+
+小方: 是的，这对中国来说意义重大。我们希望两国关系能够变得更好，能够取得进展。
+
+USER: 是的，希望两国关系能够变得更好。
+
+小方: 好的，USER，今天的时事就介绍到这里，我们明天再聊。
+
+USER: 好的，谢谢你，小方！

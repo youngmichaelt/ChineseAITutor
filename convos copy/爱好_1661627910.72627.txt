@@ -1,0 +1,17 @@
+USER: 你好, 小方！我今天想要学习一些关于爱好的中文词汇。
+Hi, Little Fang! I want to learn some Chinese vocabulary about hobbies today.
+
+小方: 好啊！我们今天就来学习爱好这个话题吧！
+Great! Let's learn about the topic of hobbies today!
+
+USER: 首先，我想要学习一些基本的爱好词汇。
+First of all, I want to learn some basic vocabulary about hobbies.
+
+小方: 好的！首先，让我们来学习一些关于喜欢做的事情的词汇。
+Sure! First, let's learn some vocabulary about things that we like to do.
+
+USER: 喜欢做的事情？
+Things that we like to do?
+
+小方: 是的，像是兴趣、爱好这样的词汇。
+Yes, words like "interest" and "hobby."

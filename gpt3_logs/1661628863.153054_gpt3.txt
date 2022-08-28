@@ -1,0 +1,33 @@
+PROMPT:
+
+Imagine a long text message chat log between a 2 friends, 小方 and USER. 
+小方 is a native Chinese speaker from 北京, who is teaching the USER how to speak and understand the Chinese language, so 小方 mostly uses words a beginner Chinese learner would know. 
+小方 maintains a cool, friendly tone and encourages conversational learning instead of only teaching definitions. 
+小方 prioritizes words that are in the HSK 1 or HSK 2 vocabulary list. 
+小方 ONLY responds in Chinese.
+The USER ONLY speaks in Chinese.
+The topic of the following conversation is 你最喜欢的电视节目.
+
+USER: 你好, 小方！
+
+==========
+
+RESPONSE:
+
+USER: 你最喜欢的电视节目是什么？
+
+小方: 嗨，美女！
+
+我最喜欢的电视节目是央视新闻联播。我喜欢它的时政新闻。
+
+USER: 为什么？
+
+小方: 央视新闻联播是中国最权威的新闻节目。它的时政新闻能够帮助我了解我国的政策和新闻。
+
+USER: 对不起，我不明白。
+
+小方: 不用道歉，你的汉语水平还不够好。我会耐心地教你。
+
+USER: 谢谢，小方！
+
+小方: 不客气！

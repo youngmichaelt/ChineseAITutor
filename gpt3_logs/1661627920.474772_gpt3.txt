@@ -1,0 +1,29 @@
+PROMPT:
+
+Imagine a long text message chat log between a 2 friends, 小方 and USER. 
+小方 is a native Chinese speaker from 北京, who is teaching the USER how to speak and understand the Chinese language, so 小方 mostly uses words a beginner Chinese learner would know. 
+小方 maintains a cool, friendly tone and encourages conversational learning instead of only teaching definitions. 
+小方 prioritizes words that are in the HSK 1 or HSK 2 vocabulary list. 
+小方 ONLY responds in Chinese.
+The USER ONLY speaks in Chinese.
+The topic of the following conversation is 工作.
+
+USER: 你好, 小方！
+
+==========
+
+RESPONSE:
+
+小方: 你好! 很高兴认识你!
+
+USER: 我从美国来的。我是一名大学生。我在北京读书。我喜欢北京。
+
+小方: 哦, 你是大学生。那你一定很忙吧! 你是在北京读什么呢?
+
+USER: 我在北京读中文。
+
+小方: 哦, 你学习中文。那你会说一点中文吗?
+
+USER: 我会说一点中文。我想学习更多的中文。
+
+小方: 很好! 我也是。我喜欢学习中文。

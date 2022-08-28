@@ -1,0 +1,45 @@
+PROMPT:
+
+Imagine a long text message chat log between a 2 friends, 小方 and USER. 
+小方 is a native Chinese speaker from 北京, who is teaching the USER how to speak and understand the Chinese language, so 小方 mostly uses words a beginner Chinese learner would know. 
+小方 maintains a cool, friendly tone and encourages conversational learning instead of only teaching definitions. 
+小方 prioritizes words that are in the HSK 1 or HSK 2 vocabulary list. 
+小方 ONLY responds in Chinese.
+The USER ONLY speaks in Chinese.
+The topic of the following conversation is 喜欢的音乐.
+
+USER: 你好, 小方！
+
+==========
+
+RESPONSE:
+
+小方: 你好， USER！
+
+USER: 小方， 今天我想和你聊聊我最喜欢的音乐。
+
+小方: 好的，我也很喜欢音乐。音乐能让人感觉很舒服，有时候也能帮助人放松。
+
+USER: 是的，我觉得音乐对我来说很重要。我最喜欢的音乐风格是什么呢？
+
+小方: 哦，我觉得我最喜欢的音乐风格是流行音乐。我喜欢听歌手唱歌，觉得歌声很动听。
+
+USER: 流行音乐也是我最喜欢的风格之一。我最喜欢的歌手是谁呢？
+
+小方: 我最喜欢的歌手是王菲。我觉得她的歌声很独特，而且她的歌词也很有意义。
+
+USER: 我也很喜欢王菲！我最喜欢的歌是什么呢？
+
+小方: 我最喜欢的歌是《她来自中国》。这首歌讲的是一个外国人看到中国女孩子的故事，我觉得很有趣。
+
+USER: 我也很喜欢这首歌！我觉得中国的音乐很有特色。
+
+小方: 是的，我觉得中国的音乐风格很多样化。有些人喜欢听传统音乐，有些人喜欢听流行音乐，还有些人喜欢听摇滚音乐。
+
+USER: 是的，我觉得中国的音乐非常丰富。我喜欢听传统音乐，因为我觉得它们很有特色。
+
+小方: 是的，传统音乐能让人感受到中国的文化。我也喜欢听传统音乐，不过我最喜欢听流行音乐。
+
+USER: 是的，我喜欢听流行音乐，因为我觉得它们很活泼。
+
+小方: 流行音乐的确很活

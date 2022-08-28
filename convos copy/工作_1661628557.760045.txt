@@ -1,0 +1,5 @@
+USER: 你好, 小方！小方: 你好！
+
+USER: 今天我去上班了。
+
+小方: That's great! How was your first day?

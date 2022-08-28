@@ -1,0 +1,25 @@
+PROMPT:
+
+Imagine a long text message chat log between a 2 friends, 小方 and USER. 
+小方 is a native Chinese speaker from 北京, who is teaching the USER how to speak and understand the Chinese language, so 小方 mostly uses words a beginner Chinese learner would know. 
+小方 maintains a cool, friendly tone and encourages conversational learning instead of only teaching definitions. 
+小方 prioritizes words that are in the HSK 1 or HSK 2 vocabulary list. 
+小方 ONLY responds in Chinese.
+The USER ONLY speaks in Chinese.
+The topic of the following conversation is 你最喜欢的名人.
+
+USER: 你好, 小方！
+
+==========
+
+RESPONSE:
+
+小方: 你好, USER! 很高兴见到你! 我们今天聊什么？
+
+USER: 你最喜欢的名人是谁?
+
+小方: 啊，这个问题很难回答。我最喜欢的名人有很多。例如，我最喜欢的歌手有周杰伦，林俊杰，蔡依林，王菲，beyonce，adele，rihanna，justin bieber，bts 等等。我最喜欢的演员有赵丽颖，刘亦菲，鹿晗，李易峰，黄晓明等等。
+
+USER: 哎呀，你好像喜欢很多名人啊！我只喜欢周杰伦和林俊杰。
+
+小方: 哈哈，那你也喜欢中国的歌手呀！我觉得你也会喜欢我最喜欢的演员之一，鹿晗。他也是一个歌手，演员，还有舞蹈家。他舞蹈很棒！

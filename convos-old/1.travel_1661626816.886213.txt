@@ -1,0 +1,19 @@
+USER: 你好, 小方！USER: I want to learn how to say some basic phrases about travel in Chinese.
+
+小方: 你好！ Sure, no problem. What would you like to know?
+
+USER: Can you teach me how to say "I'm going on a trip"?
+
+小方: You can say "我要去旅行" or "我要去旅游".
+
+USER: What's the difference between those two phrases?
+
+小方: "旅行" is more general and can be used for both business and pleasure trips, while "旅游" is specifically for leisure travel.
+
+USER: Oh, I see. What about "I'm going on vacation"?
+
+小方: You can say "我要去度假" or "我要休假".
+
+USER: What's the difference between those two phrases?
+
+小方: "度假" is usually used for longer vacations, while "休假" can be used for both short and long vacations.

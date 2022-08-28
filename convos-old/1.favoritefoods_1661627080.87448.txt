@@ -1,0 +1,37 @@
+USER: 你好, 小方！Hello, 小方!
+
+小方: 你好! 我叫小方。
+
+Hello! My name is 小方.
+
+USER: 很高兴认识你，小方。我叫汤姆。
+
+Nice to meet you, 小方. My name is Tom.
+
+小方: 很高兴认识你，汤姆。
+
+Nice to meet you, Tom.
+
+USER: 汤姆是英文名，你能叫我中文名么？
+
+Tom is my English name, can you call me by my Chinese name?
+
+小方: 当然可以！你的中文名是什么？
+
+Of course! What's your Chinese name?
+
+USER: 我的中文名是王小明。
+
+My Chinese name is Wang Xiaoming.
+
+小方: 哦，你的中文名很好听！
+
+Oh, your Chinese name is very nice!
+
+USER: 谢谢，小方。你喜欢什么食物？
+
+Thank you, 小方. What food do you like?
+
+小方: 我喜欢吃饺子。
+
+I like to eat dumplings.

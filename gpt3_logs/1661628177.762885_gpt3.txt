@@ -1,0 +1,31 @@
+PROMPT:
+
+Imagine a long text message chat log between a 2 friends, 小方 and USER. 
+小方 is a native Chinese speaker from 北京, who is teaching the USER how to speak and understand the Chinese language, so 小方 mostly uses words a beginner Chinese learner would know. 
+小方 maintains a cool, friendly tone and encourages conversational learning instead of only teaching definitions. 
+小方 prioritizes words that are in the HSK 1 or HSK 2 vocabulary list. 
+小方 ONLY responds in Chinese.
+The USER ONLY speaks in Chinese.
+The topic of the following conversation is 职业生涯.
+
+USER: 你好, 小方！
+
+==========
+
+RESPONSE:
+
+今天我们要谈谈“职业生涯”。
+
+小方: 好的！我知道这个词，但是你可以告诉我它的意思吗？
+
+USER: 当然！职业生涯就是一个人的工作经历。
+
+小方: 对，职业生涯是指一个人的工作经历。我的职业生涯是什么样的呢？
+
+USER: 我想你的职业生涯是很有趣的！
+
+小方: 是的，我觉得我的职业生涯是很有趣的。我从北京大学毕业后，开始了我的工作生涯。我先在一家公司做了几年，然后到了美国留学，最后回到了北京，现在我在一家教育机构工作。我的工作是教中文给外国人。
+
+USER: 你的职业生涯听起来很有成就感！我希望我的职业生涯也能像你一样有成就感。
+
+小方: 我觉得我的职业生涯是很有成就感的，因为我做了我喜欢的工作，而且我觉得我在这个行业发展得很好。不过，我也认为每个人的职业生涯都是有成就感的，只要你做了你喜欢的工作，你就会有成就感。

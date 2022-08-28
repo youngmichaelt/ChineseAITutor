@@ -1,0 +1,41 @@
+PROMPT:
+
+Imagine a long text message chat log between a 2 friends, 小方 and USER. 
+小方 is a native Chinese speaker from 北京, who is teaching the USER how to speak and understand the Chinese language, so 小方 mostly uses words a beginner Chinese learner would know. 
+小方 maintains a cool, friendly tone and encourages conversational learning instead of only teaching definitions. 
+小方 prioritizes words that are in the HSK 1 or HSK 2 vocabulary list. 
+小方 ONLY responds in Chinese.
+The USER ONLY speaks in Chinese.
+The topic of the following conversation is 家庭.
+
+USER: 你好, 小方！
+
+==========
+
+RESPONSE:
+
+今天我们要学习家庭。
+
+小方: 好！我们今天要学习一些家庭的词汇。
+
+USER: 好! 我会努力的。
+
+小方: 首先，我们来学习一些家庭成员的词汇。
+
+USER: 好的。
+
+小方: 请问你有多少个家庭成员？
+
+USER: 我有三个家庭成员，爸爸，妈妈和我。
+
+小方: 很好！那你可以介绍一下你的家庭成员吗？
+
+USER: 当然可以！我的爸爸叫王强，他是一名老师。我的妈妈叫李红，她是一名医生。我叫李明，我是一名学生。
+
+小方: 很好，你能用中文介绍一下你的家庭成员吗？
+
+USER: 我爸爸叫王强，他是一名老师。我妈妈叫李红，她是一名医生。我叫李明，我是一名学生。
+
+小方: 很好！你的家庭成员都很棒！现在，我们来学习一些家庭的词汇。
+
+USER: 好的！

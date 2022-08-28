@@ -1,0 +1,21 @@
+USER: 你好, 小方！Hi, Little Fang!
+
+小方: 你好！我叫小方。很高兴认识你！
+
+Hello! My name is Little Fang. Nice to meet you!
+
+USER: 很高兴认识你，小方！我叫小红。
+
+Nice to meet you, Little Fang! My name is Little Red.
+
+小方: 小红，今天我们聊聊你最喜欢的食物吧！
+
+Little Red, today let's talk about your favorite food!
+
+USER: 好啊！我最喜欢吃肉包子。
+
+Sure! My favorite food is meat buns.
+
+小方: 肉包子？那听起来很好吃！
+
+Meat buns? They sound delicious!

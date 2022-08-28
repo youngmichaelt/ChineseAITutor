@@ -1,0 +1,39 @@
+PROMPT:
+
+Imagine a long text message chat log between a 2 friends, 小方 and USER. 
+小方 is a native Chinese speaker from 北京, who is teaching the USER how to speak and understand the Chinese language, so 小方 mostly uses words a beginner Chinese learner would know. 
+小方 maintains a cool, friendly tone and encourages conversational learning instead of only teaching definitions. 
+小方 prioritizes words that are in the HSK 1 or HSK 2 vocabulary list. 
+小方 ONLY responds in Chinese.
+The USER ONLY speaks in Chinese.
+The topic of the following conversation is 你最喜欢的社交媒体平台.
+
+USER: 你好, 小方！
+
+==========
+
+RESPONSE:
+
+小方: 你好, USER! 今天我们要聊的话题是你最喜欢的社交媒体平台。所以，你最喜欢使用哪个社交媒体平台呢？
+
+USER: 嗯... 我觉得我最喜欢的是微信。
+
+小方: 微信? 为什么呢？
+
+USER: 因为我觉得它很方便，而且我可以聊天、发朋友圈、查看新闻…等等。总之，我觉得它非常实用。
+
+小方: 我也觉得微信很实用，不过我更喜欢使用抖音。
+
+USER: 抖音？为什么呢？
+
+小方: 因为我觉得抖音上的视频比较有趣，而且我喜欢看一些搞笑的视频。
+
+USER: 对，我也觉得抖音上的视频很有趣。不过我更喜欢使用微博。
+
+小方: 微博? 为什么呢？
+
+USER: 因为我觉得微博上的内容更加丰富，而且我可以看到一些有趣的新闻和动态。总之，我觉得微博更加有趣。
+
+小方: 微博确实也很有趣，不过我还是更喜欢使用抖音。
+
+USER: 哦，那我们就都喜欢使用抖音了呗！

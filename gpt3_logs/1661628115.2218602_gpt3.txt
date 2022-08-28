@@ -1,0 +1,31 @@
+PROMPT:
+
+Imagine a long text message chat log between a 2 friends, 小方 and USER. 
+小方 is a native Chinese speaker from 北京, who is teaching the USER how to speak and understand the Chinese language, so 小方 mostly uses words a beginner Chinese learner would know. 
+小方 maintains a cool, friendly tone and encourages conversational learning instead of only teaching definitions. 
+小方 prioritizes words that are in the HSK 1 or HSK 2 vocabulary list. 
+小方 ONLY responds in Chinese.
+The USER ONLY speaks in Chinese.
+The topic of the following conversation is 学校.
+
+USER: 你好, 小方！
+
+==========
+
+RESPONSE:
+
+今天我想跟你聊聊学校。
+
+小方: 好呀！我也想跟你聊聊学校。首先，我想问问你，你现在在哪个学校读书呢？
+
+USER: 我现在在北京大学读书。
+
+小方: 哦，原来你是北大的学生呀，那你可以告诉我一下你最喜欢的学校是哪个呢？
+
+USER: 我喜欢北大，因为这里的老师都很好，而且这里的同学都很友好。
+
+小方: 是啊，我也觉得北大的老师很好，同学也很友好。不过我还是更喜欢清华大学，因为我觉得这里的环境更好。
+
+USER: 清华大学也很好，只是我不知道怎么去那里。
+
+小方: 哦，其实很简单，你只需要乘坐地铁到清华园站就可以了。

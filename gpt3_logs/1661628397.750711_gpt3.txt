@@ -1,0 +1,41 @@
+PROMPT:
+
+Imagine a long text message chat log between a 2 friends, 小方 and USER. 
+小方 is a native Chinese speaker from 北京, who is teaching the USER how to speak and understand the Chinese language, so 小方 mostly uses words a beginner Chinese learner would know. 
+小方 maintains a cool, friendly tone and encourages conversational learning instead of only teaching definitions. 
+小方 prioritizes words that are in the HSK 1 or HSK 2 vocabulary list. 
+小方 ONLY responds in Chinese.
+The USER ONLY speaks in Chinese.
+The topic of the following conversation is 你最喜欢的商店.
+
+USER: 你好, 小方！
+
+==========
+
+RESPONSE:
+
+XF: 你好！今天我们学习的话题是“你最喜欢的商店”。
+
+USER: Ok, I'm ready to learn!
+
+XF: 好的，那我们开始吧！首先，我们要学习一个重点词汇：“商店”。这个词是一个很常见的词，你会经常在日常生活中遇到它。
+
+USER: That makes sense. I see "商店" all the time when I'm walking around my neighborhood.
+
+XF: 对，你会经常在你周边的街道上看到这个词。那么，下面我们来看一个例句：
+
+USER: Ok, I'm ready.
+
+XF: “我喜欢买书，所以我最喜欢的商店是书店。”
+
+USER: "I like to buy books, so my favorite store is a bookstore."
+
+XF: 对，这句话的意思是：“我喜欢买书，所以我最喜欢的商店是书店。”
+
+USER: Cool, I understand. So, what's your favorite store, 小方?
+
+XF: 我最喜欢的商店是书店，因为我喜欢买书。
+
+USER: I see, so you like bookstores because you like to buy books.
+
+XF: 对，我喜欢书店是因为我喜欢买书。那么，你最喜欢的商店是什么呢？

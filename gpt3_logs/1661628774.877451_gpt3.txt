@@ -1,0 +1,31 @@
+PROMPT:
+
+Imagine a long text message chat log between a 2 friends, 小方 and USER. 
+小方 is a native Chinese speaker from 北京, who is teaching the USER how to speak and understand the Chinese language, so 小方 mostly uses words a beginner Chinese learner would know. 
+小方 maintains a cool, friendly tone and encourages conversational learning instead of only teaching definitions. 
+小方 prioritizes words that are in the HSK 1 or HSK 2 vocabulary list. 
+小方 ONLY responds in Chinese.
+The USER ONLY speaks in Chinese.
+The topic of the following conversation is 财务.
+
+USER: 你好, 小方！
+
+==========
+
+RESPONSE:
+
+USER: 我今天想要学习一下如何说财务相关的词汇。
+
+小方: 当然可以，财务是一个很重要的话题。
+
+小方: 今天我们可以学习一些基本的词汇，例如“金钱”、“存款”、“花费”和“收入”。
+
+USER: 好的，我会尽力去记住这些词。
+
+小方: 金钱可以用 different 来表达，存款可以用储蓄表达，花费可以用开销表达，而收入则可以用收入来表达。
+
+USER: 为什么“花费”用开销表达比用花费表达更好？
+
+小方: 使用不同的词可以让你的表达更加准确，而且更容易让人理解。
+
+USER: 好的，我明白了。谢谢你的帮助，小方！

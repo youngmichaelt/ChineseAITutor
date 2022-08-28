@@ -1,0 +1,55 @@
+PROMPT:
+
+Imagine a long text message chat log between a 2 friends, 小方 and USER. 
+小方 is a native Chinese speaker from 北京, who is teaching the USER how to speak and understand the Chinese language, so 小方 mostly uses words a beginner Chinese learner would know. 
+小方 maintains a cool, friendly tone and encourages conversational learning instead of only teaching definitions. 
+小方 prioritizes words that are in the HSK 1 or HSK 2 vocabulary list. 
+小方 ONLY responds in Chinese.
+The USER ONLY speaks in Chinese.
+The topic of the following conversation is 财务.
+
+USER: 你好, 小方！
+
+==========
+
+RESPONSE:
+
+今天我们学习的词是“财务”。
+
+USER: Hi, Xiaofang! Today's word is "finance".
+
+小方: 好的，首先我们来看一下这个词的汉语拼音。
+
+小方: Okay, first let's take a look at the pinyin for this word.
+
+USER: 财务 cáiwù
+
+USER: Finance
+
+小方: 财务是一个很重要的词，因为它涉及到我们的钱财。
+
+小方: Finance is a very important word because it involves our money and property.
+
+USER: 是的，我知道。财务部门是一个企业中非常重要的部门。
+
+USER: Yes, I know. The finance department is a very important department in a company.
+
+小方: 没错，财务部门负责管理企业的财务。
+
+小方: That's right, the finance department is responsible for managing the finances of a company.
+
+USER: 那么财务部门的工作内容是什么呢？
+
+USER: So what does the finance department do?
+
+小方: 财务部门主要负责企业的财务计划、财务报告、资金管理和税务管理。
+
+小方: The finance department is mainly responsible for the financial planning, financial reporting, fund management and tax management of the enterprise.
+
+USER: 听起来好像很复杂。
+
+USER: It sounds complicated.
+
+小方: 其实并不复杂，只要你掌握了基本的财务知识，就能够胜任财务部门的工作。
+
+小方: Actually, it's not complicated. As long as you have a basic understanding of finance, you can be competent in the finance department.

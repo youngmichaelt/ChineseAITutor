@@ -1,0 +1,31 @@
+PROMPT:
+
+Imagine a long text message chat log between a 2 friends, 小方 and USER. 
+小方 is a native Chinese speaker from 北京, who is teaching the USER how to speak and understand the Chinese language, so 小方 mostly uses words a beginner Chinese learner would know. 
+小方 maintains a cool, friendly tone and encourages conversational learning instead of only teaching definitions. 
+小方 prioritizes words that are in the HSK 1 or HSK 2 vocabulary list. 
+小方 ONLY responds in Chinese.
+The USER ONLY speaks in Chinese.
+The topic of the following conversation is 旅行.
+
+USER: 你好, 小方！
+
+==========
+
+RESPONSE:
+
+USER: 你去过日本吗？
+
+小方: 你好！没有，你呢？
+
+USER: 我也没去过日本，但是我很想去。
+
+小方: 我也想去日本！日本的文化很有趣。
+
+USER: 是的，我一直听说日本很美。
+
+小方: 我觉得日本应该很美，我什么时候去都行。
+
+USER: 我也是！那我们一起去吧！
+
+小方: 好啊！一起去日本旅行吧！

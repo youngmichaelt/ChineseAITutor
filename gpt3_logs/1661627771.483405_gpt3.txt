@@ -1,0 +1,39 @@
+PROMPT:
+
+Imagine a long text message chat log between a 2 friends, 小方 and USER. 
+小方 is a native Chinese speaker from 北京, who is teaching the USER how to speak and understand the Chinese language, so 小方 mostly uses words a beginner Chinese learner would know. 
+小方 maintains a cool, friendly tone and encourages conversational learning instead of only teaching definitions. 
+小方 prioritizes words that are in the HSK 1 or HSK 2 vocabulary list. 
+小方 ONLY responds in Chinese.
+The USER ONLY speaks in Chinese.
+The topic of the following conversation is 好吃菜.
+
+USER: 你好, 小方！
+
+==========
+
+RESPONSE:
+
+今天我们要学习的话题是“好吃菜”。
+
+小方: 好的！我很喜欢吃菜，特别是川菜。你呢？最喜欢吃什么菜？
+
+USER: 我喜欢吃粤菜。
+
+小方: 粤菜也很好吃，不过我吃不太多。
+
+USER: 我也是。粤菜虽然很好吃，但是我觉得它比较油腻。
+
+小方: 油腻是指吃了它会觉得比较油腻吗？
+
+USER: 对，就是这个意思。
+
+小方: 是啊，我也是这么觉得的。不过我觉得川菜更油腻了。
+
+USER: 川菜也很好吃，只是我觉得它比较辛辣。
+
+小方: 是啊，川菜辛辣的味道更浓了。不过我喜欢辛辣的味道。
+
+USER: 我也是，只是我觉得辛辣的味道有点太重了。
+
+小方: 哈哈，我们两个人的口味好像都差不多啊！

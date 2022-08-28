@@ -1,0 +1,13 @@
+USER: 你好, 小方！小方: 你好! 很高兴认识你! 我叫小方. 
+
+USER: 你好, 小方! My name is John. 
+
+小方: 很高兴认识你, John!
+
+USER: What is your favorite food, 小方?
+
+小方: 我最喜欢的食物是米饭和蔬菜. 我喜欢吃健康的食物. 
+
+USER: I love rice and vegetables too! They are so healthy. 
+
+小方: 是的, 米饭和蔬菜对我们身体很好.

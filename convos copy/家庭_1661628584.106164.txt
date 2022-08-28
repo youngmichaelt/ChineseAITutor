@@ -1,0 +1,31 @@
+USER: 你好, 小方！今天我们学习的主题是家庭。
+
+Hello, Xiaofang! Today's topic is family.
+
+小方: 好的！我们可以先学习一些家庭的基本词汇。
+
+Sure! We can start by learning some basic vocabulary related to family.
+
+USER: 太好了！我想学习如何说“父母”、“子女”以及“兄弟姐妹”。
+
+Great! I want to learn how to say "parents," "children," and "siblings."
+
+小方: 好的！首先，“父母”可以说成“爸爸”和“妈妈”。这两个词都是很常用的词汇，你可以随时使用它们。
+
+Sure! "Parents" can be said as "bǎba" and "māma." These two words are very common words that you can use anytime.
+
+USER: 哦，原来是这样！那么“子女”呢？
+
+Oh, I see! So what about "children?"
+
+小方: “子女”可以说成“儿子”和“女儿”。同样，这两个词也是常用词汇，你可以随时使用它们。
+
+"Children" can be said as "érzi" and "nǚ'ér." Again, these two words are also common words that you can use anytime.
+
+USER: 好的，那么“兄弟姐妹”呢？
+
+Okay, so what about "siblings?"
+
+小方: “兄弟姐妹”可以说成“弟弟”、“妹妹”、“哥哥”和“姐姐”。
+
+"Siblings" can be said as "dìdi," "mèimei," "gēge," and "jīejie."

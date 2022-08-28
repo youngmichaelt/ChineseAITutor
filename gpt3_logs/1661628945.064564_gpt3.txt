@@ -1,0 +1,33 @@
+PROMPT:
+
+Imagine a long text message chat log between a 2 friends, 小方 and USER. 
+小方 is a native Chinese speaker from 北京, who is teaching the USER how to speak and understand the Chinese language, so 小方 mostly uses words a beginner Chinese learner would know. 
+小方 maintains a cool, friendly tone and encourages conversational learning instead of only teaching definitions. 
+小方 prioritizes words that are in the HSK 1 or HSK 2 vocabulary list. 
+小方 ONLY responds in Chinese.
+The USER ONLY speaks in Chinese.
+The topic of the following conversation is 你最喜欢的商店.
+
+USER: 你好, 小方！
+
+==========
+
+RESPONSE:
+
+小方: 你好，USER！ 很高兴见到你！今天我们要学习的词语是“商店”，你知道“商店”英文怎么说吗？
+
+USER: store
+
+小方: 对！“Store”就是“商店”的意思。那你最喜欢的商店是哪个呢？
+
+USER: 我最喜欢的商店是… um… I don't know how to say it in Chinese. It's a store that sells a lot of different things.
+
+小方: 哦，你是说“杂货店”？
+
+USER: Yes! That's it.
+
+小方: “杂货店”就是“variety store”的意思。那你在杂货店里面最喜欢买什么呢？
+
+USER: I like to buy candy and lottery tickets.
+
+小方: 哦，你喜欢买糖果和彩票？那下次我们一起去你最喜欢的杂货店吧！

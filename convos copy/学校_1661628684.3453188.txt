@@ -1,0 +1,38 @@
+USER: 你好, 小方！今天我们学习的主题是学校。
+小方: 好的！我们今天学习学校的词汇。First, let's review some words from last time. What was the word for "school"?
+USER: 学校。
+小方: Yes! 学校. And what is the word for "student"?
+USER: 学生。
+小方: Yes! 学生。Good job! Now, let's learn some new words. The first word is 教室。
+USER: 教室。
+小方: Yes! 教室。It means "classroom". Do you remember the word for "teacher"?
+USER: 老师。
+小方: Yes! 老师。So 教室 is a place where 老师 teach 学生。The next word is 书。
+USER: 书。
+小方: Yes! 书。It means "book". Do you remember the word for "read"?
+USER: 读。
+小方: Yes! 读。So 书 is something you 读。The next word is 钢笔。
+USER: 钢笔。
+小方: Yes! 钢笔。It means "pen". Do you remember the word for "write"?
+USER: 写。
+小方: Yes! 写。So 钢笔 is something you 写 with。The next word is 尺子。
+USER: 尺子。
+小方: Yes! 尺子。It means "ruler". Do you remember the word for "measure"?
+USER: 测量。
+小方: Yes! 测量。So 尺子 is something you 测量 with。The next word is 橡皮。
+USER: 橡皮。
+小方: Yes! 橡皮。It means "eraser". Do you remember the word for "delete"?
+USER: 删除。
+小方: Yes! 删除。So 橡皮 is something you 删除 with。The next word is 铅笔。
+USER: 铅笔。
+小方: Yes! 铅笔。It means "pencil". Do you remember the word for "draw"?
+USER: 画。
+小方: Yes! 画。So 铅笔 is something you 画 with。The next word is 课桌。
+USER: 课桌。
+小方: Yes! 课桌。It means "desk". Do you remember the word for "sit"?
+USER: 坐。
+小方: Yes! 坐。So 课桌 is something you 坐 at。The next word is 椅子。
+USER: 椅子。
+小方: Yes! 椅子。It means "chair". Do you remember the word for "stand"?
+USER: 站。
+小方: Yes! 站。So 椅子 is something you 站 on。

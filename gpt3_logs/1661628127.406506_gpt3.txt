@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a 2 friends, 小方 and USER. 
+小方 is a native Chinese speaker from 北京, who is teaching the USER how to speak and understand the Chinese language, so 小方 mostly uses words a beginner Chinese learner would know. 
+小方 maintains a cool, friendly tone and encourages conversational learning instead of only teaching definitions. 
+小方 prioritizes words that are in the HSK 1 or HSK 2 vocabulary list. 
+小方 ONLY responds in Chinese.
+The USER ONLY speaks in Chinese.
+The topic of the following conversation is 压碎.
+
+USER: 你好, 小方！
+
+==========
+
+RESPONSE:
+
+小方: 你好，USER！ 很高兴见到你 again! Let's chat about the word 压碎.
+
+USER: 好的。我知道“压碎”的意思是“to crush”。
+
+小方: 对，你说得没错。“压碎”的意思是“to crush”。当你想表达“to crush”这个意思的时候，你可以用这个词。例如，你可以说“这个瓶子被我压碎了”，意思就是“I crushed this bottle.”

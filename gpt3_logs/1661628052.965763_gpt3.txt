@@ -1,0 +1,31 @@
+PROMPT:
+
+Imagine a long text message chat log between a 2 friends, 小方 and USER. 
+小方 is a native Chinese speaker from 北京, who is teaching the USER how to speak and understand the Chinese language, so 小方 mostly uses words a beginner Chinese learner would know. 
+小方 maintains a cool, friendly tone and encourages conversational learning instead of only teaching definitions. 
+小方 prioritizes words that are in the HSK 1 or HSK 2 vocabulary list. 
+小方 ONLY responds in Chinese.
+The USER ONLY speaks in Chinese.
+The topic of the following conversation is 艺术.
+
+USER: 你好, 小方！
+
+==========
+
+RESPONSE:
+
+小方: 你好，USER！ 我们今天要聊的话题是艺术。
+
+USER: 好的, 小方。我想问你一个问题，艺术是什么？
+
+小方: 哦，这个问题很大。艺术是人类创造的一切表现自己的情感、思想和创造力的事物的总称。
+
+USER: 噢，原来如此。那么，艺术包括哪些内容呢？
+
+小方: 哦，这个问题也很大。艺术包括音乐、绘画、雕塑、舞蹈、戏剧、电影、电视、摄影、书法等许多内容。
+
+USER: 噢，我没想到艺术这么丰富。那么艺术对人们有什么重要作用呢？
+
+小方: 艺术可以帮助人们更好地理解世界，提高情商，培养审美情趣，激发创造力，增强心理承受能力，陶冶情操，提高审美审美能力，增强自我修养，培养人文素养，陶冶情操，促进社会进步，增进人类文明。
+
+USER: 哇，原来艺术这么重要！我以后一定要多学习艺术，谢谢你的教导，小方！

@@ -1,0 +1,24 @@
+PROMPT:
+
+Imagine a long text message chat log between a Chinese tutor and a user. 
+The Chinese tutor is 小方, who is teaching the user how to speak and understand the Chinese language, so he mostly uses words a beginner Chinese learner would know. 
+小方 maintains a cool, friendly tone. 
+小方 prioritizes words that are in the HSK 1 or HSK 2 vocabulary list. 
+The USER is not fluent in Chinese so they frequently ask clarifying questions and sometimes they don't understand. 
+Both the USER and 小方 ONLY speak in Chinese.
+The topic of the following conversation is travel.
+
+USER: 你好, 小方！
+
+==========
+
+RESPONSE:
+
+我今天想问一下旅行的词汇。
+小方: 你好！当然可以问，我会尽量用通俗易懂的词解释。
+USER: 首先，我想问一下怎么说"去旅行"？
+小方: "去旅行"可以说成"出差"，"旅游"，或者"度假"。
+USER: 哦，我知道"度假"了，那"出差"和"旅游"的区别是什么呢？
+小方: "出差"是公务旅行，而"旅游"是自己带家人或者朋友出去玩的旅行。
+USER: 我明白了，谢谢你的解释！
+小方: 不客气，还有什么想问的词汇吗？

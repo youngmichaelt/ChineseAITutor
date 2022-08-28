@@ -1,0 +1,5 @@
+USER: 你好, 小方！小方: 你好！ How are you today?
+
+USER: I'm good, thanks for asking. I wanted to ask you about your plans after university.
+
+小方: Oh, sure! I haven't really decided yet, but I'm thinking about either working in a big city like Beijing or Shanghai, or maybe going back to my hometown and starting my own business there. What about you? What are your plans after university?
